@@ -1,4 +1,4 @@
-## Living Room Temperature Forecasting
+## Microclimate Forecaster
 
 ### Purpose
 
@@ -33,14 +33,14 @@ A Jupyter notebook for carrying out a more detailed comparison between the best 
 
 <br/>
 
-__[input / temp-utilities.py](input/temp-utilities.py)__ -
+__[scripts / temp-utilities.py](input/temp-utilities.py)__ -
 Python script with custom helper functions for dealing with time series.
 
-__[input / temp-math-scripts.py](input/temp-math-scripts.py)__ -
+__[scripts / temp-math-scripts.py](input/temp-math-scripts.py)__ -
 Python script with custom helper functions for the mathematical models.
 
-__[input / temp-ml-scripts.py](input/temp-ml-scripts.py)__ -
+__[scripts / temp-ml-scripts.py](input/temp-ml-scripts.py)__ -
 Python script with custom helper functions for the machine learning models.
 
-__[output / time_series.csv](output/time_series.csv)__ -
+__[data / time_series.csv](output/time_series.csv)__ -
 Text file containing pre-processed time-series data.

@@ -4,8 +4,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import tensorflow as tf
 
-from temp_utilities import *
-from temp_math_scripts import *
+from scripts.temp_utilities import *
+from scripts.temp_math_scripts import *
 
 from sklearn.model_selection import ParameterGrid
 from datetime import datetime

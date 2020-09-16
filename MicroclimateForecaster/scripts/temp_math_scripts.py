@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error
 from statsmodels.tools.sm_exceptions import ConvergenceWarning
 warnings.simplefilter('ignore', ConvergenceWarning)
 
-from temp_utilities import *
+from scripts.temp_utilities import *
 
 
 def SES_one_step(true, alpha = 0.5):

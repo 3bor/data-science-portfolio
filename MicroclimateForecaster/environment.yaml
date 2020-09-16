@@ -1,0 +1,13 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy=1.18.5
+  - pandas=1.0.3
+  - seaborn=0.10.0
+  - matplotlib=3.2.1
+  - notebook
+  - statsmodels=0.11.1
+  - scikit-learn=0.23.1
+  - tensorflow=2.0.0

@@ -2,3 +2,5 @@
 .python-version
 *.pyc
 hidden/
+__pychache__/
+.ipynb_checkpoints/
