@@ -1,5 +1,13 @@
 # Personal Data Science Projects
 
+## [KA-Feedback](KA-Feedback/)
+
+KA-Feedback is a system that allows inhabitants of Karlsruhe to notify the municipality of certain situations in the public space. The data is analysed and presented. (In German.)
+
+__Result__: Highlights of interesting features in the data.
+
+__Skills__: `data preprocessing`, `data visualisation`
+
 ## [Microclimate Forecaster](MicroclimateForecaster/)
 
 A temperature sensor connected to a Raspberry Pi is used to display the living room temperature on 4.2" e-Paper display. This project takes the next step by forecasting the near-future temperature based on historical values. A combination of mathematical models and (recurrent) neural networks is explored to perform time-series forecasting.
