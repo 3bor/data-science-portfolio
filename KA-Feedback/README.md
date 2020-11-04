@@ -8,16 +8,22 @@ Analyse der von der Website [feedback.karlsruhe.de](https://feedback.karlsruhe.d
 
 ##### Das Feedback-System wird immer häufiger verwendet:
 
-![picture](html/Data_Analysis/output_62_0.png)
+![picture](html/Data_Analysis/output_79_0.png)
 
 ##### Übersicht über Art und Status des Feedbacks:
 
-![picture](html/Data_Analysis/output_36_0.png)
-![picture](html/Data_Analysis/output_56_0.png)
+![picture](html/Data_Analysis/output_26_0.png)
+![picture](html/Data_Analysis/output_68_0.png)
 
 ##### Feedback wird am häufigsten vormittags gegeben, insbesondere am Montag:
 
-![picture](html/Data_Analysis/output_70_0.png)
+![picture](html/Data_Analysis/output_87_0.png)
+
+##### Die geografische Herkunft ist relativ homogen verteilt:
+
+![picture](html/Data_Analysis/output_58_0.png)
+
+
 
 ### Beschreibung der Dateien
 
